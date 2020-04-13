@@ -1,0 +1,3 @@
+docker
+watchdog
+python-dotenv
